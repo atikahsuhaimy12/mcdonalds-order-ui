@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mcdonalds-order-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/mcdonalds-order-ui/static/js/main.e93eb242.js",
+    "static/js/453.18272e01.chunk.js": "/mcdonalds-order-ui/static/js/453.18272e01.chunk.js",
+    "index.html": "/mcdonalds-order-ui/index.html",
+    "main.e6c13ad2.css.map": "/mcdonalds-order-ui/static/css/main.e6c13ad2.css.map",
+    "main.e93eb242.js.map": "/mcdonalds-order-ui/static/js/main.e93eb242.js.map",
+    "453.18272e01.chunk.js.map": "/mcdonalds-order-ui/static/js/453.18272e01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e93eb242.js"
+  ]
+}
